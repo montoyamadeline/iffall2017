@@ -1,0 +1,36 @@
+	
+	html  {
+			color: orangered;
+			font-family: sans-serif;
+			background-color: #ffdbf9;
+		}   
+		h1 {
+			color: aquamarine;
+		}
+
+		strong {
+
+			color: black;
+		}
+
+		em {
+
+					color: grey;
+
+		}
+		#tone {
+			color: yellow;
+
+		}
+
+		#movie-title {
+			color: yellow;
+			font-size: 36px;
+				}
+		#movie-subtitles {
+			font-size: 24px;
+		}
+
+		.script {
+			font-family: monospace;
+		}
