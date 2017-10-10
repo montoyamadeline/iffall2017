@@ -1,0 +1,38 @@
+.callout{
+	float:right;
+}
+
+.parent2{
+	position: relative;
+}
+
+.callout-two{
+	position: relative;
+	bottom: -300px;
+	left: 645px;
+}
+
+.callout-3{
+	background: green;
+	position: fixed;
+	bottom: 400px;
+	left: 1000px;
+}
+
+.parent3 {
+	position: relative;
+}
+
+.callout-4{
+	background:red;
+	position: absolute;
+	left: 320px;
+	top: 200px;
+	z-index: 1000;
+}
+.callout-5 {
+	background:black;
+	position: absolute;
+	left: 330px;
+	top: 210px;
+}
