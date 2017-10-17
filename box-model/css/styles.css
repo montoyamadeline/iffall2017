@@ -1,58 +1,150 @@
-*, *:before, *:after {
-	box-sizing: border-box;
+
+h1{
+	text-align: center;
+	font-size:60pt;
+	margin-top: 175spx;
+	margin-bottom: 0;
+}
+h3{
+	margin-top: 3px;
+	text-align: center;
+	font-size:14px;
+}
+#part-1{
+	padding-top:89px;
+	text-align: center;
+	background-image: url('http://www.manrepeller.com/wp-content/uploads/2016/10/Katie-Sturino-Plus-Style-Man-Repeller-10.jpg');
+	padding-bottom:172.5px;
+	color: navy;
+
+}
+h2{
+	margin-top:42px;
+	margin-bottom: -5px;
+	font-size: 30px;
+	text-align: center;
 }
 
 
-body{
-font-family: 'Archivo Narrow', sans-serif;
-}
-#intro{
-padding-top: 157px;
-padding-bottom: 205px;
-text-align: center;
-background-image: url(http://www.manrepeller.com/wp-content/uploads/2016/10/Katie-Sturino-Plus-Style-Man-Repeller-10.jpg);
-max-height: 482px;
-}
-h1 {
-margin-top: 0;
-margin-bottom: 0;
-font-size: 78px;
-letter-spacing: 0.75px;
-
+.leandra{
+	float: right;
+ 	height: 300px;
+ 	width: 400px;
+ 	margin-left: 30px;
+ 	margin-top: 38px;
+ 	margin-bottom: 30px;
 }
 
+.section-body-one{
+	font-size: 14px;
+	margin-top: 20px;
+	margin: auto;
+	width: 960px;
+	margin: auto;
+	line-height: 1.32rem;
+	letter-spacing: -.172px;
+}
+
+.section-body-one p {
+	margin-bottom: -3.5px;
+}
+
+#section1{
+	color:white;
+	padding-top:1px;
+	border-left: 200px;
+	height: 644px;
+	background-color: navy;
+
+	}
+
+#section2 h2{
+	margin-top:42px;
+	margin-bottom: 32px;
+	font-size: 40.1px;
+	text-align: center;
+}
 
 #section2{
+	color: white;
+	padding-top:1px;
+	border-left: 200px;
+	height: 678px;
+	background-color: black;
+	}
+
+.section-body-two{
+	font-size:18.5px;
+	margin-top: 20px;
+	margin: auto;
+	width: 960px;
+	margin: auto;
+	letter-spacing: -.172px;
+	}
+.photo{
+	height:150px;
+	width: 50%;
+	display: inline-block;
+	margin-bottom: 20px;
+	}
+
+.pic-2{
+	float: left;
+ 	height: 150px;
+ 	width: 200px;
+}
+
+h4{
+	margin-left: 13.1px;
+	margin-top: 2.5px;
+	font-size:21px;
+	float: left;
+	letter-spacing: -.1px;
+}
+
+#section2 p{
+	margin-left: 212px;
+	margin-top: -119px;
+	float:left;
+	line-height: 21px;
+}
+
+#section3{
+	color:white;
+	padding-top:1px;
+	border-left: 200px;
+	height: 412px;
+	background-color: navy;
+	}
+#section3 h2{
+	margin-top:42px;
+	margin-bottom: 32px;
+	font-size: 40.1px;
 	text-align: center;
+}
+
+.section-body-three{
+	font-size:27.5px;
+	text-align: center;
+	margin-left: 4px;
+	line-height:31px;
+	letter-spacing: -.2px;
+	}
+
+#section4{
+	height:98px;
+	background-color: white;
+	}
+.four-text{
+	margin-left: 232px;
 	padding-top: 40px;
-	padding-right: 222px;
-	padding-left: 222px;
-	background-color: pink;
-	max-height: 644px;
-    color: white;
-    padding-top: 1px;
-    border-left: 200px;
-    height: 644px;
+	color:navy;
+	font-size:18px;
 }
-h3 {
-margin-top: 3px;
-font-size: 30px;
-padding-left: 35px;
-padding-right: 50px;
-padding-bottom: 50px;
-padding-top: 30px;
-}
-
-h2{
-	text-align: center;
-    font-size: 41px;
-    margin-top: -1px;
-    letter-spacing: 0px;
-    max-height: 644px;
-
-}
-
-
-#img1{
+.buttons{
+	color: navy;
 	float:right;
+	margin-right: 232px;
+	font-size:28px;
+	margin-top:-25px;
 }
