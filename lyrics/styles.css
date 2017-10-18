@@ -1,0 +1,103 @@
+h1{
+	position: absolute;
+}
+html{
+	background-color: skyblue;
+}
+
+.title{
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 100px;
+	line-height: 70px;
+	margin-top: -730px;
+	margin-left: 550px;
+	position: relative;
+	
+
+
+
+
+}
+
+.image1{
+
+	transform: rotate(-90deg);
+	padding-top: 100px;
+	margin-left: 483px;
+	height: 600px;
+	margin-top: 100px;
+}
+
+.p1{
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 933px;
+	margin-top: -353px;
+	text-align: right;
+	font-size: 12px;
+	color: white;
+}
+
+.p2{
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: right;
+		margin-right: 933px;
+		font-size: 12px;
+		color: white;
+
+
+}
+
+.p3{
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: right;
+		margin-right: 550px;
+		font-size: 12px;
+			margin-right: 933px;
+			color: white;
+
+}
+
+.p4{
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: right;
+		margin-right: 550px;
+		font-size: 12px;
+		margin-top: -110px;
+		color: white;
+}
+
+.p5{
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: right;
+		font-size: 12px;
+		margin-right: 550px;
+		color: white;
+
+
+}
+
+
+.p6{
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: right;
+		font-size: 12px;
+		margin-right: 690px;
+		color: white;
+
+}
+
+.p7{
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: right;
+		font-size: 12px;
+		margin-right: 690px;
+		color: white;
+
+}
+
+
+
+
+
+
+
