@@ -12,12 +12,17 @@ html{
 	margin-top: -730px;
 	margin-left: 550px;
 	position: relative;
-	
+
 
 
 
 
 }
+
+body{
+	width: 1440px;
+}
+
 
 .image1{
 
