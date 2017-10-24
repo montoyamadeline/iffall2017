@@ -1,0 +1,113 @@
+h1{
+	position: absolute;
+}
+html{
+	background-color: white;
+}
+
+.title{
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 100px;
+	line-height: 70px;
+	margin-top: -730px;
+	margin-left: 566px;
+	position: relative;
+
+
+}
+
+.title:hover{
+	color: red;
+}
+
+body{
+	width: 1440px;
+}
+
+
+.image1{
+
+	transform: rotate(-90deg);
+	padding-top: 100px;
+	margin-left: 483px;
+	height: 600px;
+	margin-top: 100px;
+}
+
+.p1{
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 933px;
+	margin-top: -353px;
+	text-align: right;
+	font-size: 12px;
+	color: red;
+}
+
+.p2{
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: right;
+		margin-right: 933px;
+		font-size: 12px;
+		color: orange;
+
+
+}
+
+.p3{
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: right;
+		margin-right: 550px;
+		font-size: 12px;
+			margin-right: 933px;
+			color: #f7da00;
+
+}
+
+.p4{
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: right;
+		margin-right: 600px;
+		font-size: 12px;
+		margin-top: -110px;
+		color: green;
+}
+
+.p5{
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: right;
+		font-size: 12px;
+		margin-right: 600px;
+		color: blue;
+
+
+}
+
+
+.p6{
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: right;
+		font-size: 12px;
+		margin-right: 690px;
+		color: indigo;
+
+}
+
+.p7{
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: right;
+		font-size: 12px;
+		margin-right: 690px;
+		color: violet;
+
+}
+
+#audio{
+	float: left;
+    margin-top: -800px;
+    margin-left: 0px;
+    
+}
+
+
+
+
