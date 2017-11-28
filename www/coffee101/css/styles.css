@@ -1,0 +1,229 @@
+h1{
+	font-family: Didot;
+	font-size: 150px;
+	text-align: center;
+		margin-top: 0px;
+}
+
+.jump{
+	font-family: garamond;
+	font-style: italic;
+	font-size: 40px;
+	margin-left: 248px;
+
+}
+
+.topbuttons p{
+	color: black;
+	display: inline-block;
+	font-family: sans-serif;
+	font-size: 35px;
+	margin-left: 248px;
+
+}
+
+.sub1{
+	font-family: "Univers";
+	padding-left: 30px;
+	padding-top: 15px; 
+}
+
+.line1{
+	font-family: garamond;
+	font-style: italic;
+	font-size: 30px;
+	padding-left: 30px;
+	padding-top: 10px;
+}
+
+.line3{
+	font-family: garamond;
+	font-style: italic;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 5px;
+	margin-top: -108px;
+}
+
+.image1{
+	max-height: 70%;
+	max-width: 70%;
+	align-content: center;
+	display: block;
+    top: 0; bottom:0; left: 0; right:0;
+    margin: auto;
+}
+
+
+.coffee101{
+	font-size: 80px;
+	font-family: Didot;
+	padding-left: 232px;
+	text-decoration: underline;
+	margin-left: 155px;
+
+}
+
+.p1{
+	font-family: garamond;
+	padding-left: 232px;
+	padding-right: 824px;
+	font-size: 20px;
+	text-justify: inter-word;
+	text-align: justify;
+	margin-left: 155px;
+	margin-right: 320px;
+
+
+
+}
+.grinding{
+	font-size: 80px;
+	font-family: Didot;
+	padding-left: 232px;
+	text-decoration: underline;
+	margin-left: 155px;
+
+
+}
+.p2{
+	font-family: garamond;
+	padding-left: 232px;
+	padding-right: 824px;
+	font-size: 20px;
+	text-justify: inter-word;
+	text-align: justify;
+	margin-left: 155px;
+		margin-right: 320px;
+
+
+}
+.brewing{
+	font-size: 80px;
+	font-family: Didot;
+	padding-left: 232px;
+		text-decoration: underline;
+	margin-left: 155px;
+
+}
+.p3{
+	font-family: garamond;
+	padding-left: 232px;
+	padding-right: 824px;
+	font-size: 20px;
+	text-justify: inter-word;
+	text-align: justify;
+	margin-right: 320px;
+	margin-left: 155px;
+
+}
+
+.image2{
+	max-height: 25%;
+	max-width: 25%;
+	padding-bottom: 300px;
+	float: right;
+	position: relative;
+	display: inline-block;
+	margin-right: 302px;
+	margin-top: 150px;
+}
+
+.city{
+	font-family: didot;
+	max-height: 25%;
+	max-width: 25%;
+	padding-bottom: 300px;
+	float: right;
+	position: relative;
+	display: inline-block;
+	margin-right: -540px;
+	margin-top: 900px;
+	font-size: 60px;
+}
+
+.citylist{
+	color: grey;
+	font-family: garamond;
+	font-style: italic;
+	max-height: 25%;
+	max-width: 25%;
+	padding-bottom: 300px;
+	float: right;
+	position: relative;
+	display: inline-block;
+	margin-right: -666px;
+	margin-top: 800px;
+	font-size: 47px;
+}
+
+.image3{
+	margin-right: 370px;
+	margin-left: 400px;
+}
+
+.separation{
+	font-size: 80px;
+	font-family: Didot;
+	padding-left: 232px;
+	text-decoration: underline;
+	margin-left: 155px;
+}
+
+.p4{
+	font-family: garamond;
+	padding-left: 232px;
+	padding-right: 824px;
+	font-size: 20px;
+	text-justify: inter-word;
+	text-align: justify;
+	margin-right: 320px;
+	margin-left: 155px;
+
+}
+
+.extraction{
+	font-size: 80px;
+	font-family: Didot;
+	padding-left: 232px;
+	text-decoration: underline;
+	float: right;
+	position: relative;
+	display: inline-block;
+	margin-right: -550px;
+	margin-top: 1050px;
+}
+
+.p5{
+	font-family: garamond;
+	max-height: 25%;
+	max-width: 25%;
+	padding-bottom: 300px;
+	float: right;
+	position: relative;
+	display: inline-block;
+	margin-right: -888px;
+	margin-top: 1250px;
+	font-size: 20px;
+	text-align: justify;
+
+}
+
+.homepage{
+	font-family: didot;
+	font-size: 50px;
+	text-align: center;
+	color: black;
+	text-decoration: none;
+}
+
+.image4{
+	max-height: 25%;
+	max-width: 25%;
+	float: right;
+margin-top: -1046px;
+margin-right: 303px;
+}
+
+
+
