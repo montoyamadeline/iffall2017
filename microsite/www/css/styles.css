@@ -1,0 +1,45 @@
+h1{
+	font-family: didot;
+	text-align: center;
+	font-size: 80px;
+}
+
+.intro{
+	font-family: garamond;
+	font-style: italic;
+	margin-left: 820px;
+	margin-top: -66px;
+}
+
+.image1{
+	max-height: 60%;
+	max-width: 60%;
+	margin-left: 20px;
+}
+
+.image2{
+	max-width: 30%;
+	max-height: 30%;
+	margin-left: 10px;
+	float: right;
+	margin-right: 50px;
+
+}
+.image3{
+	max-width: 30%;
+	max-height: 30%;
+	margin-left: 10px;
+	float: right;
+	margin-right: 50px;
+	margin-top: -90px;
+
+}
+
+.social{
+	font-family: didot;
+	font-size: 60px;
+	margin-left: 20px;
+	margin-top: 25px;
+	color: black;
+
+}

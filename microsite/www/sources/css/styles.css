@@ -1,0 +1,30 @@
+h1{
+	font-family: didot;
+	font-size: 80px;
+	text-align: center;
+}
+
+.sources{
+	font-family: garamond;
+	font-size: 20px;
+	text-align: center;
+}
+
+.image1{
+	max-height: 70%;
+	max-width: 70%;
+	top: 0; bottom:0; left: 0; right:0;
+	margin: auto;
+	margin-left: 215px;
+
+
+}
+
+.homepage{
+
+	font-family: didot;
+	font-size: 50px;
+	text-align: center;
+	color: black;
+	text-decoration: none;
+}
