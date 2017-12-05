@@ -1,3 +1,25 @@
+@media screen and (max-width: 640px){
+
+	.image1 {
+	display: block;
+    top: 0; bottom:0; left: 0; right:0;
+    margin: auto;
+  }
+
+  p{
+  	color: red;
+  }
+
+  .social {
+  	font-size: 3px;
+  	color: red;
+  }
+
+  h1{
+  	size: 20px;
+  }
+}
+
 h1{
 	font-family: didot;
 	text-align: center;
